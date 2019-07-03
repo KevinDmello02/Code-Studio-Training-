@@ -1,1 +1,2 @@
-This is my git text document.
+This is a Text Document.
+This Repository Holds all the chapters do along with code.
