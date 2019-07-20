@@ -1,0 +1,16 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "schedule lib test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "mysql": "^2.17.1",
+    "node-schedule": "^1.3.2"
+  }
+}
